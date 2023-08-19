@@ -13,3 +13,5 @@ There is an expansion bus on the back for driving the optional 8-step trigger se
 This module, like many of my modules, uses 2mm-pitch male/female headers. Be sure you order/use the right thing!
 
 Most ICs are SOIC 8/14/16; all passives are 0805. The BOMs prefixed with `fixed` are easier to read; the others can be used along with the Pick-and-place and gerber files to order PCBs.
+
+There is a short video demo here: https://youtu.be/3jVBC9zQfPw
